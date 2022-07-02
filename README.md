@@ -46,6 +46,8 @@ change the values of X and Y wherever necessary.
 simulate the model for inverse kinematics.
 ### STEP 5:
 update the DH parameters of the link configuration and end effector configuration.
+## 3R PLANAR:
+![githublogo](sss.png)
 
 
 
